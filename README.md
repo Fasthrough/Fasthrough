@@ -1,6 +1,6 @@
 # Hi there, I'm Kyll John Bueno! 👋
 
-### 👨‍💻 Full Stack Web Developer | Laravel Enthusiast | AI Integrator
+### 👨‍💻 Full Stack Web Developer
 
 I am a passionate **Web Developer** from the **Philippines** 🇵🇭 with a strong focus on backend systems using **Laravel** and modern frontend technologies. I specialize in building secure, scalable web applications and integrating AI services into consumer tools.
 

@@ -45,12 +45,3 @@ Currently, I am focused on **Browser Extension Development** and **AI-driven Ris
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
-
-### 📊 **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fasthrough&show_icons=true&theme=radical&hide_border=true" alt="Kyll's Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fasthrough&theme=radical&hide_border=true" alt="Kyll's Streak" />
-</div>

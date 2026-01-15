@@ -2,9 +2,9 @@
 
 ### 👨‍💻 Full Stack Web Developer
 
-I am a passionate **Web Developer** from the **Philippines** 🇵🇭 with a strong focus on backend systems using **Laravel** and modern frontend technologies. I specialize in building secure, scalable web applications and integrating AI services into consumer tools.
+Building the backbone of the web. I specialize in secure backends, modern interfaces, and the practical integration of AI
 
-Currently, I am focused on **Browser Extension Development** and **AI-driven Risk Assessment** tools.
+
 
 ---
 

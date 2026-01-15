@@ -12,7 +12,7 @@ Building the backbone of the web. I specialize in secure backends, modern interf
 *An AI-powered browser extension for consumer protection against e-commerce fraud.*
 
 - **Tech Stack:** JavaScript, Chrome Extension APIs, HTML/CSS.
-- **AI Integration:** Google Gemini API for real-time sentiment analysis (NonDelivery, Counterfeit detection).
+- **AI Integration:** Google Gemini API for real-time sentiment analysis.
 - **Key Feature:** engineered a hybrid **Bayesian Trust Score** algorithm combining star ratings with AI risk detection.
 - **Impact:** Provides immediate, actionable risk intelligence to online shoppers.
 
